@@ -25,6 +25,7 @@
     "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
   },
   "stackblitz": {
-    "startCommand": "yarn install && yarn typescript"
-  }
+    "startCommand": "yarn typescript"
+  },
+  "packageManager": "yarn@4.5.0"
 }
