@@ -23,5 +23,8 @@
   },
   "resolutions": {
     "@mui/styled-engine": "npm:@mui/styled-engine-sc@latest"
+  },
+  "stackblitz": {
+    "startCommand": "yarn install && yarn typescript"
   }
 }
