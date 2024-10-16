@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "target": "es2022",
+        "sourceMap": false,
+        "allowJs": false,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "forceConsistentCasingInFileNames": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noImplicitAny": false,
+        "resolveJsonModule": true,
+        "strictNullChecks": true,
+        "noUnusedLocals": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./src/",
+        "paths": {
+            "~/*": ["./*"]
+        },
+        "disableSizeLimit": true,
+        "noEmit": true,
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}
