@@ -26,6 +26,5 @@
   },
   "stackblitz": {
     "startCommand": "yarn typescript"
-  },
-  "packageManager": "yarn@4.5.0"
+  }
 }
